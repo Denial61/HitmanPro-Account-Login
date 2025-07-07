@@ -7,11 +7,11 @@ How Do I Log Into My HitmanPro Account?
 
 Learn how to easily log into your HitmanPro account, manage your subscription, and troubleshoot common login issues for seamless malware protection.
 
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: HitmanPro Account Login
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/hitmanpro-account-login
+   :target: https://hitmanproaccount.com
 
 HitmanPro is a well-known malware removal tool designed to protect your computer from viruses, ransomware, and other threats. If you use HitmanPro, having easy access to your account is essential for managing your subscription, activating licenses, and receiving support. Logging into your HitmanPro account is a straightforward process, but knowing exactly how to do it can save you time and hassle.
 
